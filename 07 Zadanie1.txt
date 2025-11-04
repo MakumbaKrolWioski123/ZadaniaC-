@@ -1,0 +1,20 @@
+1.
+string-ciag znaków, sluzy aby wieswietlic n.p zdania
+int-numeryczny, przechwuje liczby
+double-do liczb zmiennoprzecinkowych
+bool-zmiennowarunkowa
+decimal- do liczb z duza iloscią cyfr po przecinku-precyzyjne obliczneia
+
+2.
+zostały uzyte operatory przypisania,odejmowania,mnozenia,dzielenia
+
+3.
+zostanie wyświetlone "Aplikacja sklep online ma 150 produktów"
+
+4.
+true ponieważ srednia ocen jste wieksza lub rowna 4.5 i czyDostepna=true
+
+5.
+ponieważ decimal ma najwieksza liczbe cyfr znaczących, i nie ma zaokrąglania liczb co przydaje się przy określeniu n.p cen gdzie potrzebna jest precyzja
+
+
