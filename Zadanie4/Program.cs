@@ -6,7 +6,7 @@
         {
             string imie = "";
             string nazwisko = "Kowalska";
-            string wiek = "28";
+            string wiek = "867";
             string email = "anna.kowalska@example.com";
             string numer="123456789";
             bool imieOk = false;
