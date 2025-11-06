@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.14.36616.10 d17.14
+VisualStudioVersion = 17.14.36616.10
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zadania", "Zadania\Zadania.csproj", "{D418628D-8AD8-4F9F-9702-985E2A41108C}"
 EndProject
@@ -12,6 +12,8 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Oceny", "Oceny\Oceny.csproj", "{E58423AE-C3B3-4EAD-8B16-C3816F101623}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Generator", "Generator\Generator.csproj", "{E51915B3-5DB9-437C-9AA1-37CE1ADA8029}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Logowanie", "Logowanie\Logowanie.csproj", "{C03DA970-1CDF-4814-9FA9-23B106C65BDF}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +41,10 @@ Global
 		{E51915B3-5DB9-437C-9AA1-37CE1ADA8029}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E51915B3-5DB9-437C-9AA1-37CE1ADA8029}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E51915B3-5DB9-437C-9AA1-37CE1ADA8029}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C03DA970-1CDF-4814-9FA9-23B106C65BDF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C03DA970-1CDF-4814-9FA9-23B106C65BDF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C03DA970-1CDF-4814-9FA9-23B106C65BDF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C03DA970-1CDF-4814-9FA9-23B106C65BDF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
