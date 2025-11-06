@@ -15,6 +15,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Generator", "Generator\Gene
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Logowanie", "Logowanie\Logowanie.csproj", "{C03DA970-1CDF-4814-9FA9-23B106C65BDF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BMI", "BMI\BMI.csproj", "{F479B9E4-4E03-4A23-9EB7-0F5F2B4702E4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +47,10 @@ Global
 		{C03DA970-1CDF-4814-9FA9-23B106C65BDF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C03DA970-1CDF-4814-9FA9-23B106C65BDF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C03DA970-1CDF-4814-9FA9-23B106C65BDF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F479B9E4-4E03-4A23-9EB7-0F5F2B4702E4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F479B9E4-4E03-4A23-9EB7-0F5F2B4702E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F479B9E4-4E03-4A23-9EB7-0F5F2B4702E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F479B9E4-4E03-4A23-9EB7-0F5F2B4702E4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
