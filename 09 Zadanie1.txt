@@ -1,0 +1,7 @@
+1.Int i 2 parametry
+2.aby zabronic zmiane LiczbaOperacji spoza klasy
+3.wartosc 3
+4.zwroci 0
+5.Kalkulator.ResetujLicznik(), liczba operacji zmieni się na 0
+
+
