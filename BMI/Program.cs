@@ -52,9 +52,9 @@
         {
             Console.WriteLine("Podaj wage:");
             double waga = Convert.ToDouble(Console.ReadLine());
-            Console.WriteLine("Podaj wzrost w metrach:");
+            Console.WriteLine("Podaj wzrost w centymetrach:");
             double wzrost = Convert.ToDouble(Console.ReadLine());
-            var b1 = new BMI(waga, wzrost);
+            var b1 = new BMI(waga, wzrost/100);
             double WartoscBMI = b1.ObliczBMI();
             Console.WriteLine($"Twoje BMI wynosi: {Math.Round(WartoscBMI,2)}");
             string interpretacja = b1.InterpretujBMI(WartoscBMI);
