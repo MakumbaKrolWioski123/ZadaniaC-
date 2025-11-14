@@ -56,7 +56,7 @@
     {
         static void Main(string[] args)
         {
-           var produkt = new Product("Laptop", -3500.99m, 10);
+           var produkt = new Product("Laptop", 3500.99m, 10);
             produkt.WyswietlInformacje();
         }
     }
