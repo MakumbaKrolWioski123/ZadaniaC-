@@ -1,0 +1,5 @@
+1.Jak dodamy nowy typ logger to znowu trzeba dodac kolejnego if 
+2.Gdy chcemy zmienić nawet 1 element to trzeba dokonywać sporo innych zmian aby kod dzialal
+3.Po dodaniu polimorfizmu można usunąć inne metody do sprawdzania typu loggera i zostawić 1 który będzie dzialal niezależnie od typu
+4.
+
